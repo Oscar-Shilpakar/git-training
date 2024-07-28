@@ -1,1 +1,3 @@
 I am Oscar Shilpakar.
+I am doing training in git.
+I am in a hall.
